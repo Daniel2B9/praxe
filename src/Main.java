@@ -67,6 +67,7 @@ public class Main {
                 System.out.println("k = kalkulacka v=věty na samohlasky");
                 break;
         }
+        System.out.println("zmena");
 
 
     }
